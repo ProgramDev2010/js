@@ -1,0 +1,29 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+* body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+* body .con {
+  width: 500px;
+  height: 500px;
+  background-color: #eb9478;
+}
+
+* body .con h2 {
+  margin-left: 50px;
+  color: #493d6f;
+}
+
+* body .con input {
+  border: none;
+  border-radius: 3px;
+}
+/*# sourceMappingURL=style.css.map */
